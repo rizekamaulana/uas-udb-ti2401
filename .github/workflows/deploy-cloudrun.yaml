@@ -10,7 +10,7 @@ env:
   GAR_LOCATION: us-west1
   REPOSITORY: uas-repo
   IMAGE_NAME: uas-udb-ti2401
-  PROJECT_ID: project-d84633c5-a53e-4ac3-9a4   # Ganti dengan ID project kamu
+  PROJECT_ID: project-d84633c5-a53e-4ac3-9a4
 
 jobs:
   build:
